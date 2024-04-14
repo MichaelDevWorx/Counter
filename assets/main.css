@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+.number-box {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    color: lightgrey;
+    background-color: black;
+    border: 5px;
+    margin: 50px;
+    padding: 50px !important;
+    border-radius: 10px;
+}
+
+.btn-primary {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
